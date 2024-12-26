@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+    <img alt="Coding Animation" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 </div>
+
 <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
 <h3 align="center">Code Enthusiast | Setia | Problem Solver</h3>
 

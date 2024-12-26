@@ -1,13 +1,13 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"/>
-</div>
+
 
 <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
 <h3 align="center">Code enthusiast | Setia | Problem Solver</h3>
 
-<img align="right" alt="Coding Animation" width="350" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"/>
+</div>
 
-<p align="left">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalan ninjaku!</p>
+<p align="justify">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalan ninjaku!</p>
 
 
 <h3 align="left">🌟 About Me:</h3>

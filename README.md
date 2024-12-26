@@ -2,6 +2,10 @@
 <h3 align="center">Code Enthusiast | Setia | Problem Solver</h3>
 
 <!-- Centering the image -->
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; text-align: justify;">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
+  <img align="left" alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
+</div>
 <div style="text-align: center;">
   <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 </div>

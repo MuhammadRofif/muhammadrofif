@@ -23,7 +23,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">💻 Languages & Tools:</h3>
 <p align="left">
@@ -49,8 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
 </p>
-
----
 
 <h3 align="left">✨ Fun Fact:</h3>
 <div style="display: flex; align-items: center;">

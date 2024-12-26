@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif"/>
+  <img height="200" src="https://i.pinimg.com/originals/48/ce/09/48ce09593ab9599100c3dbe281d1a0ac.gif"/>
 </div>
-
 
 <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
 <h3 align="center">Code enthusiast | Setia | Problem Solver</h3>

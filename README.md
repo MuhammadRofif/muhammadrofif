@@ -1,4 +1,5 @@
 <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
+<img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 <h3 align="center">Code enthusiast | Setia | Problem Solver</h3>
 
 <img align="right" alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">

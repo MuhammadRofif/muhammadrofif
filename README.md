@@ -50,8 +50,6 @@
 </p>
 
 
-<h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
-<h3 align="center">Code enthusiast | Setia | Problem Solver</h3>
 <img align="right" alt="Coding Animation" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
 <p align="justify">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
 <p align="justify">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>

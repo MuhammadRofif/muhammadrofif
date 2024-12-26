@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/59/b2/34/59b2349684d902730f710b65f05ecb80.gif"/>
+  <img height="150" src="https://i.pinimg.com/236x/94/70/0e/94700eb3425d708f8e0c8825aea1c0a1.jpg"/>
 </div>
 
 <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>

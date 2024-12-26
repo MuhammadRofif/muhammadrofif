@@ -5,7 +5,7 @@
   <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 </div>
 
-<p align="justify">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
+<p align="left" >Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
 
 <h3 align="left">🌟 About Me:</h3>
 <ul style="line-height: 1.8;">

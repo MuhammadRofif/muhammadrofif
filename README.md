@@ -1,28 +1,29 @@
-perbaiki <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
-<h3 align="center">Code enthusiast | Setia | Problem Solver</h3>
+<h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
+<h3 align="center">Code Enthusiast | Setia | Problem Solver</h3>
 
-<img align="right" alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+<div style="text-align: right;">
+  <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+</div>
 
-
-<p align="left">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
+<p align="justify">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
 
 <h3 align="left">🌟 About Me:</h3>
-- 💻 **Hobi:** Ngoding, eksplorasi teknologi baru, dan belajar hal-hal baru  
-- 🎯 **Fokus Saat Ini:** Menguasai framework modern dan pengembangan aplikasi web  
-- 🌱 **Belajar:** React, Web, dan konsep UI/UX  
-- ✨ **Motto:** "Belajar tanpa batas, berkembang tanpa henti"
+<ul style="line-height: 1.8;">
+  <li>💻 <strong>Hobi:</strong> Ngoding, eksplorasi teknologi baru, dan belajar hal-hal baru</li>
+  <li>🎯 <strong>Fokus Saat Ini:</strong> Menguasai framework modern dan pengembangan aplikasi web</li>
+  <li>🌱 <strong>Belajar:</strong> React, Web, dan konsep UI/UX</li>
+  <li>✨ <strong>Motto:</strong> "Belajar tanpa batas, berkembang tanpa henti"</li>
+</ul>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad rofiif taqiyyuddin nabiil" target="_blank">
+  <a href="https://linkedin.com/in/muhammad-rofiif-taqiyyuddin-nabiil" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mhmmdrofif_14" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
 
 <h3 align="left">💻 Languages & Tools:</h3>
 <p align="left">
@@ -49,9 +50,8 @@ perbaiki <h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
   </a> 
 </p>
 
----
-
 <h3 align="left">✨ Fun Fact:</h3>
-<img align="right" alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
-<p align="left">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
-
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; text-align: justify;">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
+  <img align="left" alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
+</div>

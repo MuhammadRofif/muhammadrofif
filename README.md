@@ -6,15 +6,11 @@
 
 <p align="left">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
 
----
-
 <h3 align="left">🌟 About Me:</h3>
 - 💻 **Hobi:** Ngoding, eksplorasi teknologi baru, dan belajar hal-hal baru  
 - 🎯 **Fokus Saat Ini:** Menguasai framework modern dan pengembangan aplikasi web  
 - 🌱 **Belajar:** React, Web, dan konsep UI/UX  
 - ✨ **Motto:** "Belajar tanpa batas, berkembang tanpa henti"
-
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -56,7 +52,7 @@
 ---
 
 <h3 align="left">✨ Fun Fact:</h3>
-<p align="left">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
 <img align="right" alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
+<p align="left">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
 
 

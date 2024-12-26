@@ -52,6 +52,7 @@
 
 
 <img align="right" alt="Coding Animation" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
-<p align="justify"><p align="justify">
-    Saya bisa tenggelam dalam dunia ngoding, namun sholat 5 waktu selalu menjadi prioritas. Meskipun cuaca dingin, sholat subuh tetap saya lakukan, karena menjaga keseimbangan antara ibadah dan pekerjaan adalah hal yang tak bisa ditawar.
+<p align="justify">
+    Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu tetap jadi prioritas utama.
 </p>
+

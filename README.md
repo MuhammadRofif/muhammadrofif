@@ -56,7 +56,7 @@
 ---
 
 <h3 align="left">✨ Fun Fact:</h3>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <p style="margin-right: 10px;">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
   <img alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
 </div>

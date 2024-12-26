@@ -1,12 +1,58 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rofif</h1>
-<h3 align="center">Suka Coding</h3>
-<img align="center" alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+<h1 align="center">✨ Hello World! I'm Muhammad Rofif ✨</h1>
+<h3 align="center">Code Enthusiast | Setia | Problem Solver</h3>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Centering the image -->
+<div style="text-align: right;">
+  <img alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
+</div>
+
+<p align="justify">Hi! 👋 Saya adalah seorang pengembang yang sangat antusias dengan teknologi modern. Saya percaya bahwa kode bukan hanya alat, tetapi juga seni yang dapat mengubah dunia. <strong>Tunduk kepada tradisi? Cih, tidak akan!</strong> Berdiri tegak dan menghadapi dengan keberanian adalah jalanku!</p>
+
+<h3 align="left">🌟 About Me:</h3>
+<ul style="line-height: 1.8;">
+  <li>💻 <strong>Hobi:</strong> Ngoding, eksplorasi teknologi baru, dan belajar hal-hal baru</li>
+  <li>🎯 <strong>Fokus Saat Ini:</strong> Menguasai framework modern dan pengembangan aplikasi web</li>
+  <li>🌱 <strong>Belajar:</strong> React, Web, dan konsep UI/UX</li>
+  <li>✨ <strong>Motto:</strong> "Belajar tanpa batas, berkembang tanpa henti"</li>
+</ul>
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad rofiif taqiyyuddin nabiil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rofiif taqiyyuddin nabiil" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmmdrofif_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdrofif_14" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad-rofiif-taqiyyuddin-nabiil" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/mhmmdrofif_14" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">💻 Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+</p>
+
+<h3 align="left">✨ Fun Fact:</h3>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px; text-align: justify;">Saya bisa lupa waktu saat ngoding, tapi sholat 5 waktu selalu jadi prioritas utama</p>
+  <img align="left" alt="Sigma" width="200" src="https://i.pinimg.com/736x/d6/6e/4f/d66e4f7668d796f227e6055ed0096ea0.jpg">
+</div>

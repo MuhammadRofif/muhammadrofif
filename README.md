@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rofif</h1>
 <h3 align="center">Suka Coding</h3>
-<img
+<img align="right" alt="Sigma" width="400" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
